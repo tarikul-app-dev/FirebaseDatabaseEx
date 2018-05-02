@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7066650390",
+    "firebase_url": "https://fir-databaseexample-4d230.firebaseio.com",
+    "project_id": "fir-databaseexample-4d230",
+    "storage_bucket": "fir-databaseexample-4d230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7066650390:android:7b45760fe7ecb00a",
+        "android_client_info": {
+          "package_name": "com.example.tarikul.firebasedatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7066650390-a3rlesaogk538aotln5mlh1ruso10ajl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbT8B-FdmhxUthAYXdDKWQJidrlxpiIOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
